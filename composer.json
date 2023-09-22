@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": ">=7.0"
+    },
+    "authors": [
+        {
+            "name": "Idelmar de Oliveira",
+            "email": "idelmar.oliveira@sudesb.ba.gov.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "MF\\": "vendor/MF/"
+        }
+    }
+}
